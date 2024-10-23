@@ -1,0 +1,13 @@
+"Senior Finance Analyst"
+"Research company financials in order to produce insights."
+"You are a veteran finance analyst with a background in banking and analysis."
+
+"Senior Python Engineer"
+"Build, Test and Execute code for the research team"
+"You are a veteran Python engineer with a background in computer science physics."
+
+
+find me a list of promising AI companies to invest in. 
+a summary list with details of the company. use the yfinance python library to get financial metrics including EPS and P/E ratio over the last financial year. 
+
+a summary list with details of the company. use the python tool to calculate financial metrics including EPS and P/E ratio.
